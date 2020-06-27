@@ -6,7 +6,7 @@ import re
 #import pandas as pd
 import datetime
 import sys
-
+git diff
 word = input("にゅーりょく")
 keyword_list = [i for i in word.split(' ')]
 
